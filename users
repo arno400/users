@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "name": "Addition",
     "username": "Bret",
-    "email": "Sincere@april.biz",
+    "email": "easy",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -24,9 +24,9 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
+    "name": "Addition",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "email": "normal",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
